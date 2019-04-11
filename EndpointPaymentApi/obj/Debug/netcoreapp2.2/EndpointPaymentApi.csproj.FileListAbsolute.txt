@@ -1,0 +1,11 @@
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\bin\Debug\netcoreapp2.2\EndpointPaymentApi.deps.json
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\bin\Debug\netcoreapp2.2\EndpointPaymentApi.runtimeconfig.json
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\bin\Debug\netcoreapp2.2\EndpointPaymentApi.runtimeconfig.dev.json
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\bin\Debug\netcoreapp2.2\EndpointPaymentApi.dll
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\obj\Debug\netcoreapp2.2\EndpointPaymentApi.csprojAssemblyReference.cache
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\obj\Debug\netcoreapp2.2\EndpointPaymentApi.csproj.CoreCompileInputs.cache
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\obj\Debug\netcoreapp2.2\EndpointPaymentApi.RazorAssemblyInfo.cache
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\obj\Debug\netcoreapp2.2\EndpointPaymentApi.RazorAssemblyInfo.cs
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\obj\Debug\netcoreapp2.2\EndpointPaymentApi.AssemblyInfoInputs.cache
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\obj\Debug\netcoreapp2.2\EndpointPaymentApi.AssemblyInfo.cs
+C:\Users\dusausoy.s\source\repos\EndpointPaymentApi\EndpointPaymentApi\obj\Debug\netcoreapp2.2\EndpointPaymentApi.RazorTargetAssemblyInfo.cache
